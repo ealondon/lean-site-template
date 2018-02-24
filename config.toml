@@ -29,7 +29,7 @@ DefaultContentLanguage = "en"
 
   ## -- EA GROUP INFO -- ##
   [Languages.en.groupinfo]
-  legalOrgName = "Effective Altruism <London>"
+  legalOrgName = "Effective Altruism London"
   orgLocations = "London, United Kingdom"
   contactEmail = "yourEAGroupEmail@here.com"
 
